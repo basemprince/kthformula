@@ -1,6 +1,6 @@
 # KTH FORMULA EXERCISES
 
-<b>Exercise 1: Design, develop and debug a ROS network</b>
+<b><u>Exercise 1:</u> Design, develop and debug a ROS network</b>
  
 * Created a topic named after my surname "Shaker"
 * Created a publisher "Talker", that sends a message:
