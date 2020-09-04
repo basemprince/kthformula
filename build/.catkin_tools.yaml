@@ -1,0 +1,6 @@
+devel_space: /home/parallels/kthfsdv/devel
+install: false
+install_space: /home/parallels/kthfsdv/install
+profile: default
+source_space: /home/parallels/kthfsdv/src
+workspace: /home/parallels/kthfsdv

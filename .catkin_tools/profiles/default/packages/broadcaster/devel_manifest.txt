@@ -1,0 +1,5 @@
+exc1/broadcaster
+/home/parallels/kthfsdv/devel/.private/broadcaster/cmake.lock /home/parallels/kthfsdv/devel/./cmake.lock
+/home/parallels/kthfsdv/devel/.private/broadcaster/share/broadcaster/cmake/broadcasterConfig.cmake /home/parallels/kthfsdv/devel/share/broadcaster/cmake/broadcasterConfig.cmake
+/home/parallels/kthfsdv/devel/.private/broadcaster/share/broadcaster/cmake/broadcasterConfig-version.cmake /home/parallels/kthfsdv/devel/share/broadcaster/cmake/broadcasterConfig-version.cmake
+/home/parallels/kthfsdv/devel/.private/broadcaster/lib/pkgconfig/broadcaster.pc /home/parallels/kthfsdv/devel/lib/pkgconfig/broadcaster.pc

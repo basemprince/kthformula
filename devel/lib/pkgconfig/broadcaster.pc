@@ -1,0 +1,1 @@
+/home/parallels/kthfsdv/devel/.private/broadcaster/lib/pkgconfig/broadcaster.pc

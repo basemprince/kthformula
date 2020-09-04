@@ -1,0 +1,5 @@
+exc1/receiver
+/home/parallels/kthfsdv/devel/.private/receiver/cmake.lock /home/parallels/kthfsdv/devel/./cmake.lock
+/home/parallels/kthfsdv/devel/.private/receiver/share/receiver/cmake/receiverConfig.cmake /home/parallels/kthfsdv/devel/share/receiver/cmake/receiverConfig.cmake
+/home/parallels/kthfsdv/devel/.private/receiver/share/receiver/cmake/receiverConfig-version.cmake /home/parallels/kthfsdv/devel/share/receiver/cmake/receiverConfig-version.cmake
+/home/parallels/kthfsdv/devel/.private/receiver/lib/pkgconfig/receiver.pc /home/parallels/kthfsdv/devel/lib/pkgconfig/receiver.pc

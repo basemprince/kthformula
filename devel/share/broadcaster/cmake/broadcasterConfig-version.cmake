@@ -1,0 +1,1 @@
+/home/parallels/kthfsdv/devel/.private/broadcaster/share/broadcaster/cmake/broadcasterConfig-version.cmake
