@@ -11,3 +11,8 @@ Exercise 1: Design, develop and debug a ROS network
   * receives the UInt16 message published to the "Shaker" topic
   * The message is then divided by 0.15 and then published to a new topic named "Result"
 * Created plots for the "Shaker" and "Result" topics using PlotJuggler
+
+Exercise 2: Programming a data visualisation tool
+* Created an excutable Python file that uses matplotlib to visualize a function
+* The function is h ( t ) = 3 * pi * exp(-lambda [ t ] ) where lambda ( t ) = 5 * sin ( 2 * pi * 1 * t )
+* The graph has a 'real-time'/live updated data visualisation
