@@ -1,6 +1,7 @@
 # KTH FORMULA EXERCISES
 
-Exercise 1: Design, develop and debug a ROS network
+<b>Exercise 1: Design, develop and debug a ROS network</b>
+ 
 * Created a topic named after my surname "Shaker"
 * Created a publisher "Talker", that sends a message:
   * the message type is UInt16
@@ -12,7 +13,8 @@ Exercise 1: Design, develop and debug a ROS network
   * The message is then divided by 0.15 and then published to a new topic named "Result"
 * Created plots for the "Shaker" and "Result" topics using PlotJuggler
 
-Exercise 2: Programming a data visualisation tool
+<b>Exercise 2: Programming a data visualisation tool</b>
+ 
 * Created an excutable Python file that uses matplotlib to visualize a function
 * The function is h ( t ) = 3 * pi * exp(-lambda [ t ] ) where lambda ( t ) = 5 * sin ( 2 * pi * 1 * t )
 * The graph has a 'real-time'/live updated data visualisation
