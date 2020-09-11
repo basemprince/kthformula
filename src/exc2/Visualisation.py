@@ -8,6 +8,7 @@ plt.style.use('ggplot')
 # arrays to accumulate time and function results
 current_array = []
 func_array = []
+displayed_data = 20
 
 # the time when the script started
 start_time = time.time()
@@ -20,7 +21,8 @@ while True and go_signal:
     func = 3 * math.pi * math.exp(-t) 
     current_array.append(current_time)
     func_array.append(func)
-    if(len(current_array)>20):
+    # get rid of the oldest data points after accumulating the allowed displayed_data
+    if(len(current_array)>=displayed_data):
         current_array.pop(0)
         func_array.pop(0)
     plt.cla()
