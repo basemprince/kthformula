@@ -8,7 +8,7 @@ from skimage.color import rgb2lab, deltaE_cie76
 import os
 import webcolors
 
-show_chart = False
+show_chart = True
 
 
 def closest_colour(requested_colour):
