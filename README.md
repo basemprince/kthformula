@@ -32,12 +32,12 @@
 
 * The task is to put bounding boxes around cones on the video and indicate their color
 * Tried the following (unsuccessful):
- * TensorFlow Object Detection API using this tutorial: https://www.youtube.com/watch?v=COlbP62-B-U
- * Train for custom object (with supplied pictures of cones) using the API w/ a pre-trained model
- * Hand labled the images using "labelImg.py" to produce XML files and split them into train and test samples
- * Generate a tf Record for the samples
- * Set-up a configuration file and train the actual model
- * Export the graph result and bring in that frozen enfrence graph and use to classify on the videos
+  * TensorFlow Object Detection API using this tutorial: https://www.youtube.com/watch?v=COlbP62-B-U
+  * Train for custom object (with supplied pictures of cones) using the API w/ a pre-trained model
+  * Hand labled the images using "labelImg.py" to produce XML files and split them into train and test samples
+  * Generate a tf Record for the samples
+  * Set-up a configuration file and train the actual model
+  * Export the graph result and bring in that frozen enfrence graph and use to classify on the videos
 
 <b>Rule Quiz</b>
 
