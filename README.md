@@ -38,3 +38,7 @@
  * Generate a tf Record for the samples
  * Set-up a configuration file and train the actual model
  * Export the graph result and bring in that frozen enfrence graph and use to classify on the videos
+
+<b>Rule Quiz</b>
+
+* Uploaded a PDF file called "Quiz.pdf" with my answers to the quiz under src/perception
