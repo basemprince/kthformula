@@ -33,6 +33,7 @@ def get_colour_name(requested_colour):
 
 def masking(image):
     imageHSV = cv2.cvtColor(image,cv2.COLOR_RGB2HSV)
+    #Masking for yellow and blue colors
     H = [0,179]
     S = [83,255]
     V = [0,255]
