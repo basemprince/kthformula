@@ -24,6 +24,9 @@
  
 * Created an excutable Python file that uses OpenCV and sklearn to look for specific colors (yellow/blue)
 * The cone is already assumed extracted
+* Iterates through the cone_images folder one by one to identify the color
+* The algorithm uses Kmeans clustering to estimate the hexcolor, w
+* Make show_chart True to display pie charts of the top 2 colors predicted
 
 <b>Exercise 2: Real-time cone detection on videos</b>
 
