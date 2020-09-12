@@ -1,4 +1,4 @@
-# KTH FORMULA EXERCISES
+# KTH FORMULA SOFRWARE ARCHITECTURE EXERCISES
 
 <b><u>Exercise 1:</u> Design, develop and debug a ROS network</b>
  
